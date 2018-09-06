@@ -1,1 +1,1 @@
-# LeNet
+# LeNet for Classification
